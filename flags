@@ -1,1 +1,1 @@
--o run -Wall -Werror -Wextra -g
+-o run.out -Wall -Werror -Wextra -g

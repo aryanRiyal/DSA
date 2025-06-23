@@ -1,0 +1,14 @@
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.so
+*.a
+*.out
+*.bin
+*.ilk
+*.pdb
+*.exp
+*.idb
+*.ipch
