@@ -29,7 +29,7 @@ int main()
 	vector<int> nums= {5,2,9,6,45,0,83, 1};
 
 	sortRecursion(nums);
-	for(int i =0; i<nums.size(); i++) {
+	for(size_t i =0; i<nums.size(); i++) {
 		cout<<nums[i]<<" ";
 	}
     cout<<endl;

@@ -7,7 +7,8 @@ public:
     stack<int> s;
 
 void sort() {
-     if(s.size() <= 1) {
+     if(s.size() <= static_cast<size_t>(1)) {
+     //if(s.size() <= 1) {
          return;
      }
      int topVal = s.top();
